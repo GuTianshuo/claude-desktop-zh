@@ -1,0 +1,9 @@
+# generated / machine-local artefacts (never commit: contains the app's own UI copy)
+cache.json
+cache.jsonl
+extract/
+out/
+backup/
+*.asar
+*.asar.unpacked/
+__pycache__/
